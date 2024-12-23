@@ -1,0 +1,21 @@
+{
+  "name": "down-to-earth",
+  "displayName": "Down to earth",
+  "description": "Simple eye pleasing color theme for developers.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Down to earth",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Down to earth-color-theme.json"
+      }
+    ]
+  }
+}
