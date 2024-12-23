@@ -2,7 +2,19 @@
   "name": "down-to-earth",
   "displayName": "Down to earth",
   "description": "Simple eye pleasing color theme for developers.",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "publisher": "chicforce",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/heeat/down-to-earth"
+  },
+  "keywords": [
+    "theme",
+    "dark",
+    "purple",
+    "spooky",
+    "egg plant"
+  ],
   "engines": {
     "vscode": "^1.96.0"
   },
