@@ -16,7 +16,7 @@
     "egg plant"
   ],
   "engines": {
-    "vscode": "^1.96.0"
+    "vscode": "^1.91.0"
   },
   "categories": [
     "Themes"
